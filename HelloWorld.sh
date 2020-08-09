@@ -1,5 +1,5 @@
 !/bin/bash
-
+#program
 echo "Enter username"
 read username
 echo "Enter password"
